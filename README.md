@@ -6,7 +6,5 @@ accessible localy.
 This could make it extremely difficult for a tresspasser to undermine the integrity side of the security triad effectivley creating
 an authenticated channel between two users.
 
-The host application runs a series of tests on the device and its random number generator - its presently not in working order due
-to a dependency in QT creator and a new QTextBox object needs to be added.
-
+The host application runs a series of tests on the device and its random number generator - 
 A Second host application is being developed in C++ and will use the USBKey as a two factor version of netcat.
